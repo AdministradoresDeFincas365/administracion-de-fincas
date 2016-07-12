@@ -5,5 +5,4 @@ En Administradores De Fincas 365 encontrarás todo lo relacionado con la [admini
 *   Petición de presupuestos
 *   Directorio de administradores
 *   Comunidad de propietarios  
-
 *   Blog de gestión de fincas
